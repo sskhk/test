@@ -1,9 +1,0 @@
-{
-  "authEndpoint": "https://aquila-test.apigee.net/E1A50130-A38A-4D0C-A365-3A6CCFF80523/oauth2/auth",
-  "sessionApi": {
-    "endpoint": "https://aquila-test.apigee.net/E1A50130-A38A-4D0C-A365-3A6CCFF80523/session",
-    "apikey": "tLV3eJbiWKIuHCNmFemPOmvPVPCGwzyU"
-  },
-  "localUserDb": "../config/localUserDb.js",
-  "authSystem": "local"
-}
